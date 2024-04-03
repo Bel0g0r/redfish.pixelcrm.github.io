@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/redfish.pixelcrm.github.io/static/css/main.1d9a774e.css",
-    "main.js": "/redfish.pixelcrm.github.io/static/js/main.e9e0b3f8.js",
+    "main.js": "/redfish.pixelcrm.github.io/static/js/main.fe53ae0a.js",
     "static/js/356.0a072b6c.js": "/redfish.pixelcrm.github.io/static/js/356.0a072b6c.js",
     "static/media/MaterialCommunityIcons.ttf": "/redfish.pixelcrm.github.io/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/Ionicons.ttf": "/redfish.pixelcrm.github.io/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
@@ -30,12 +30,12 @@
     "favicon-16.png": "/redfish.pixelcrm.github.io/favicon-16.png",
     "serve.json": "/redfish.pixelcrm.github.io/serve.json",
     "main.1d9a774e.css.map": "/redfish.pixelcrm.github.io/static/css/main.1d9a774e.css.map",
-    "main.e9e0b3f8.js.map": "/redfish.pixelcrm.github.io/static/js/main.e9e0b3f8.js.map",
+    "main.fe53ae0a.js.map": "/redfish.pixelcrm.github.io/static/js/main.fe53ae0a.js.map",
     "356.0a072b6c.js.map": "/redfish.pixelcrm.github.io/static/js/356.0a072b6c.js.map"
   },
   "entrypoints": [
     "static/js/356.0a072b6c.js",
     "static/css/main.1d9a774e.css",
-    "static/js/main.e9e0b3f8.js"
+    "static/js/main.fe53ae0a.js"
   ]
 }
